@@ -84,7 +84,7 @@ def main(dataset_name, classifier_name, nb_epochs, nb_trans, mode):
 
 
 if __name__ == '__main__':
-	dataset_name = 'ArrowHead'
+    dataset_name = 'ArrowHead'
     classifier_name = 'ResNet'
     nb_epochs = 1500
     nb_trans = 4
